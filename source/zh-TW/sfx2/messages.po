@@ -1931,6 +1931,41 @@ msgctxt "STR_STYLEUSEDBY"
 msgid "(used by: %STYLELIST)"
 msgstr "(使用中：%STYLELIST)"
 
+#: include/sfx2/strings.hrc
+msgctxt "STR_TIP_DRAGRULER"
+msgid "This paragraph has already applied a list style, if the relevant settings are applied, the values ​​will be different from the original style settings."
+msgstr "「該段落已套用清單樣式，若套用相關設定會與原樣式設定值不同」"
+
+#: include/sfx2/strings.hrc
+msgctxt "STR_TIP_SWITCHMENUBAR"
+msgid "The traditional toolbar can be switched to a tabbed interface, you can switch from View - User Interface - Tabbed on the function bar."
+msgstr "傳統工具列可切換成分頁標籤介面，您可以在功能列上的「檢視」- 「使用者介面」-「分頁標籤」切換。"
+
+#: include/sfx2/strings.hrc
+msgctxt "STR_LINK_QA_SWITCHMENUBAR"
+msgid "Go to QAHelp"
+msgstr "前往QA小幫手"
+
+#: include/sfx2/strings.hrc
+msgctxt "STR_TIP_DRAGRULER_CHECK"
+msgid "Do not show this prompt again"
+msgstr "不再顯示此提示"
+
+#: include/sfx2/strings.hrc
+msgctxt "STR_TIP_FORMATCHECK"
+msgid "The file you opened is an Office file or an ODF file not made with native ODF software. It is recommended to save it with this tool. During the process, we will automatically make the following layout adjustments (if you don’t need it, you can uncheck it yourself)"
+msgstr "您開啟的檔案為Office檔案或非以原生ODF軟體製作之ODF格式檔案，建議以本工具另存，過程中我們會自動進行以下版面調整 (如不需要，可自行取消勾選)"
+
+#: include/sfx2/strings.hrc
+msgctxt "STR_TIP_FORMATCHECK_APPLY"
+msgid "FormatCheck Options"
+msgstr "格式校正選項"
+
+#: include/sfx2/strings.hrc
+msgctxt "STR_TIP_FORMATCHECK_DISABLE"
+msgid "Disable FormatCheck"
+msgstr "停用格式修正建議"
+
 #. 6UgqW
 #: include/sfx2/strings.hrc:346
 msgctxt "STR_DOCUMENT"
