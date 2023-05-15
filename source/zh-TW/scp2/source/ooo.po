@@ -49,8 +49,8 @@ msgctxt ""
 "folderitem_ooo.ulf\n"
 "STR_FI_TOOLTIP_SOFFICE\n"
 "LngText.text"
-msgid "LibreOffice, the office productivity suite provided by The Document Foundation. See https://www.documentfoundation.org"
-msgstr "%PRODUCTNAME"
+msgid "%PRODUCTNAME, the office productivity suite provided by %OOOVENDOR."
+msgstr "%PRODUCTNAME，由 %OOOVENDOR 提供的辦公生產力套裝軟體。"
 
 #. Bf97K
 #: module_helppack.ulf
