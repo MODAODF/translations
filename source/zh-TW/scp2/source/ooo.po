@@ -50,7 +50,7 @@ msgctxt ""
 "STR_FI_TOOLTIP_SOFFICE\n"
 "LngText.text"
 msgid "%PRODUCTNAME, the office productivity suite provided by %OOOVENDOR."
-msgstr "%PRODUCTNAME，由 %OOOVENDOR 提供的辦公生產力套裝軟體。"
+msgstr "%PRODUCTNAME，由全世界開放原始碼社群共同發展的辦公生產力套裝軟體。"
 
 #. Bf97K
 #: module_helppack.ulf
