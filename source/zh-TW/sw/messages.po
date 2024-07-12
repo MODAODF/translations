@@ -11437,25 +11437,25 @@ msgstr "重設"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:162
 msgctxt "bulletsandnumbering|bullets"
 msgid "Unordered"
-msgstr "無順序"
+msgstr "項目符號"
 
 #. qqAgU
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:163
 msgctxt "bulletsandnumbering|bullets"
 msgid "Select a bullet type for an unordered list."
-msgstr "為無順序的清單選取項目符號類型。"
+msgstr "為項目符號的清單選取項目符號類型。"
 
 #. pHHPT
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:210
 msgctxt "bulletsandnumbering|singlenum"
 msgid "Ordered"
-msgstr "有順序"
+msgstr "編號"
 
 #. aELAv
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:211
 msgctxt "bulletsandnumbering|singlenum"
 msgid "Select a numbering scheme for an ordered list."
-msgstr "為有順序的清單選取編號方式。"
+msgstr "為有編號的清單選取編號方式。"
 
 #. 8AADg
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:259
@@ -11479,7 +11479,7 @@ msgstr "影像"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:309
 msgctxt "bulletsandnumbering|graphics"
 msgid "Select a graphic bullet symbol for an unordered list."
-msgstr "為無順序的清單選取圖形項目符號。"
+msgstr "為項目符號的清單選取圖形項目符號。"
 
 #. zVTFe
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:357
@@ -11491,7 +11491,7 @@ msgstr "位置"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:358
 msgctxt "bulletsandnumbering|position"
 msgid "Modify indent, spacing, and alignment options for ordered and unordered lists."
-msgstr "修改有順序與無順序清單的縮排、間距與對齊選項。"
+msgstr "修改編號與項目符號清單的縮排、間距與對齊選項。"
 
 #. nFfDs
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:406
@@ -27961,7 +27961,7 @@ msgstr "命名並隱藏使用者定義的樣式"
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:216
 msgctxt "templatedialog16|bullets"
 msgid "Unordered"
-msgstr "無順序"
+msgstr "項目符號"
 
 #. 7MAbD
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:217
@@ -27973,7 +27973,7 @@ msgstr "選擇預先定義的項目符號類型"
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:265
 msgctxt "templatedialog16|numbering"
 msgid "Ordered"
-msgstr "有順序"
+msgstr "編號"
 
 #. BHtZp
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:266
