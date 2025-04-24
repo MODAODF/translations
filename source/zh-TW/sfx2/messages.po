@@ -3924,7 +3924,7 @@ msgstr "列出所選分類的可用範本。"
 #: sfx2/uiconfig/ui/loadtemplatedialog.ui:241
 msgctxt "loadtemplatedialog|label2"
 msgid "Templates"
-msgstr "範本"
+msgstr "%PRODUCTNAME 範本"
 
 #. LAAM3
 #: sfx2/uiconfig/ui/loadtemplatedialog.ui:245
@@ -4986,7 +4986,7 @@ msgstr "或建立新類別"
 #: sfx2/uiconfig/ui/templatedlg.ui:44
 msgctxt "templatedlg|TemplateDialog"
 msgid "Templates"
-msgstr "範本"
+msgstr "%PRODUCTNAME 範本"
 
 #. rhuYP
 #: sfx2/uiconfig/ui/templatedlg.ui:76
@@ -5070,7 +5070,7 @@ msgstr "所有類別"
 #: sfx2/uiconfig/ui/templatedlg.ui:250
 msgctxt "templatedlg|label1"
 msgid "Filter"
-msgstr "篩選器"
+msgstr "範本類型"
 
 #. ewTL3
 #: sfx2/uiconfig/ui/templatedlg.ui:356

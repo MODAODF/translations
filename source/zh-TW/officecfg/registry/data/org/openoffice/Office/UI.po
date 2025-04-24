@@ -24306,7 +24306,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Send Feedback"
-msgstr "傳送意見回饋"
+msgstr "軟體更新資訊"
 
 #. CAbqR
 #: GenericCommands.xcu
@@ -36126,7 +36126,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "~Add to List"
-msgstr "新增至清單(~A)"
+msgstr "接續前一個編號(~A)"
 
 #. rbB7v
 #: WriterCommands.xcu
@@ -36136,7 +36136,7 @@ msgctxt ""
 "TooltipLabel\n"
 "value.text"
 msgid "“Add to List” adds selected paragraphs to an immediately preceding list."
-msgstr "「新增至清單」將選定的段落新增至緊接在前面的清單中。"
+msgstr "「接續前一個編號」將選定的段落新增至緊接在前面的清單中並接續編號。"
 
 #. oCEjg
 #: WriterCommands.xcu

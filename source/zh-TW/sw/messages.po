@@ -603,6 +603,7 @@ msgstr "這不是有效的 WinWord6 檔案。"
 msgctxt "RID_SW_ERRHDL"
 msgid "File format error found at $(ARG1)(row,col)."
 msgstr "發現 $(ARG1)(row,col) 處有檔案格式錯誤。"
+"\n\n此檔案包含不正確的 ODF 表頭格式資訊，建議利用本工具另存新檔以修正問題，並將此問題回報給原始檔案提供者確認此檔案產生方式的正確性。"
 
 #. FWd22
 #: sw/inc/error.hrc:40
@@ -11653,25 +11654,25 @@ msgstr "重設"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:162
 msgctxt "bulletsandnumbering|bullets"
 msgid "Unordered"
-msgstr "無順序"
+msgstr "項目符號"
 
 #. qqAgU
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:163
 msgctxt "bulletsandnumbering|bullets"
 msgid "Select a bullet type for an unordered list."
-msgstr "為無順序的清單選取項目符號類型。"
+msgstr "為項目符號的清單選取項目符號類型。"
 
 #. pHHPT
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:210
 msgctxt "bulletsandnumbering|singlenum"
 msgid "Ordered"
-msgstr "有順序"
+msgstr "編號"
 
 #. aELAv
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:211
 msgctxt "bulletsandnumbering|singlenum"
 msgid "Select a numbering scheme for an ordered list."
-msgstr "為有順序的清單選取編號方式。"
+msgstr "為有編號的清單選取編號方式。"
 
 #. 8AADg
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:259
@@ -11683,7 +11684,7 @@ msgstr "大綱"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:260
 msgctxt "bulletsandnumbering|outlinenum"
 msgid "Select an outline format for an ordered list."
-msgstr "為有順序的清單選取大綱格式。"
+msgstr "為有編號的清單選取大綱格式。"
 
 #. hW6yn
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:308
@@ -11695,7 +11696,7 @@ msgstr "影像"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:309
 msgctxt "bulletsandnumbering|graphics"
 msgid "Select a graphic bullet symbol for an unordered list."
-msgstr "為無順序的清單選取圖形項目符號。"
+msgstr "為項目符號的清單選取圖形項目符號。"
 
 #. zVTFe
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:357
@@ -11707,7 +11708,7 @@ msgstr "位置"
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:358
 msgctxt "bulletsandnumbering|position"
 msgid "Modify indent, spacing, and alignment options for ordered and unordered lists."
-msgstr "修改有順序與無順序清單的縮排、間距與對齊選項。"
+msgstr "修改編號與項目符號清單的縮排、間距與對齊選項。"
 
 #. nFfDs
 #: sw/uiconfig/swriter/ui/bulletsandnumbering.ui:406
@@ -23143,7 +23144,7 @@ msgstr "在此段落重新開始編號(_E)"
 #: sw/uiconfig/swriter/ui/numparapage.ui:263
 msgctxt "numparapage|checkCB_NEW_START"
 msgid "For ordered lists and List Styles with numbering"
-msgstr "對於帶有編號的有順序清單與清單樣式"
+msgstr "對於帶有編號的有序清單與清單樣式"
 
 #. SCaCA
 #: sw/uiconfig/swriter/ui/numparapage.ui:270
@@ -28675,7 +28676,7 @@ msgstr "命名並隱藏使用者定義的樣式"
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:216
 msgctxt "templatedialog16|bullets"
 msgid "Unordered"
-msgstr "無順序"
+msgstr "項目符號"
 
 #. 7MAbD
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:217
@@ -28687,7 +28688,7 @@ msgstr "選擇預先定義的項目符號類型"
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:265
 msgctxt "templatedialog16|numbering"
 msgid "Ordered"
-msgstr "有順序"
+msgstr "編號"
 
 #. BHtZp
 #: sw/uiconfig/swriter/ui/templatedialog16.ui:266
