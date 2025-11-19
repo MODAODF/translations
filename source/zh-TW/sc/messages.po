@@ -3684,12 +3684,14 @@ msgstr "檔案包括第 8192 列後的資料，因此無法讀取。"
 msgctxt "RID_ERRHDLSC"
 msgid "Format error discovered in the file in sub-document $(ARG1) at $(ARG2)(row,col)."
 msgstr "發現 $(ARG1) 子文件的檔案在 $(ARG2)(row,col) 處有格式錯誤。"
+"\n\n此檔案包含不正確的 ODF 表頭格式資訊，建議利用本工具另存新檔以修正問題，並將此問題回報給原始檔案提供者確認此檔案產生方式的正確性。"
 
 #. NzaA9
 #: sc/inc/scerrors.hrc:56
 msgctxt "RID_ERRHDLSC"
 msgid "File format error found at $(ARG1)(row,col)."
 msgstr "發現 $(ARG1)(row,col) 處有檔案格式錯誤。"
+"\n\n此檔案包含不正確的 ODF 表頭格式資訊，建議利用本工具另存新檔以修正問題，並將此問題回報給原始檔案提供者確認此檔案產生方式的正確性。"
 
 #. gYKQj
 #. Export ----------------------------------------------------
