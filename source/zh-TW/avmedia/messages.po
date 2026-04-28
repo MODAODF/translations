@@ -2,11 +2,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2022-02-18 12:16+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?"
+"product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2026-04-28 10:20+0800\n"
 "PO-Revision-Date: 2021-02-15 15:37+0000\n"
 "Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional) <https://translations."
+"documentfoundation.org/projects/libo_ui-master/avmediamessages/zh_Hant/>\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -105,6 +107,39 @@ msgstr "尚未支援所選檔案的格式。"
 msgctxt "AVMEDIA_STR_ZOOM_TOOLTIP"
 msgid "View"
 msgstr "檢視"
+
+#. KJUtu
+#: avmedia/inc/strings.hrc:40
+msgctxt "AVMEDIA_STR_CODEC_NOT_FOUND"
+msgid ""
+"Cannot play this media file.\n"
+"\n"
+"The system may be missing the required codec to decode this file format.\n"
+"\n"
+"Would you like to visit the codec download page?"
+msgstr "無法插入此媒體檔。\n"
+"\n"
+"可能是因為系統內缺少此媒體檔所需的編解碼器。\n"
+"\n"
+"您要下載編解碼器嗎？"
+
+#. UxqSB
+#: avmedia/inc/strings.hrc:41
+msgctxt "AVMEDIA_STR_CODEC_TITLE"
+msgid "Media Codec Required"
+msgstr "需要媒體編解碼器"
+
+#. JQAEH
+#: avmedia/inc/strings.hrc:42
+msgctxt "AVMEDIA_STR_FORMAT_NOT_SUPPORTED"
+msgid "The format of the selected file is not supported."
+msgstr "尚未支援所選檔案的格式。"
+
+#. Sfs3G
+#: avmedia/inc/strings.hrc:43
+msgctxt "AVMEDIA_STR_FORMAT_TITLE"
+msgid "Unsupported Format"
+msgstr "不支援此格式"
 
 #. wH3TZ
 msgctxt "stock"
