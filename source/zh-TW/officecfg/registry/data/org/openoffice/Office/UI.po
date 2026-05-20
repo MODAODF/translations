@@ -24520,7 +24520,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Send Feedback"
-msgstr "軟體更新資訊"
+msgstr "傳送意見回饋"
 
 #. CAbqR
 #: GenericCommands.xcu
